@@ -58,11 +58,11 @@ export const clientReviews = [
 
 export const myProjects = [
   {
-    title: 'Podcastr - AI Podcast Platform',
-    desc: 'Podcastr is a revolutionary Software-as-a-Service platform that transforms the way podcasts are created. With advanced AI-powered features like text-to-multiple-voices functionality, it allows creators to generate diverse voiceovers from a single text input.',
+    title: 'T4A - Trends4All',
+    desc: 'Trends4All is a shopping platform for the most trendy clothes for all genders and categories and it inculcates filters and payment gateways as well. The website is built using MERN Stack, Tailwind CSS, and uses various other libraries live JWT, Bcrypt, React-toastify, etc.',
     subdesc:
-      'Built as a unique Software-as-a-Service app with Next.js 14, Tailwind CSS, TypeScript, Framer Motion and Convex, Podcastr is designed for optimal performance and scalability.',
-    href: 'https://www.youtube.com/watch?v=zfAb95tJvZQ',
+      'The app features a user-friendly interface, easy navigation, and a wide range of clothing options, ensuring a seamless and enjoyable shopping experience for users. The app is still underway but is expected to be deployed soon.',
+    href: 'https://github.com/Lethal-Tempest/T4A',
     texture: '/textures/project/project1.mp4',
     logo: '/assets/project-logo1.png',
     logoStyle: {
@@ -95,11 +95,11 @@ export const myProjects = [
     ],
   },
   {
-    title: 'LiveDoc - Real-Time Google Docs Clone',
-    desc: 'LiveDoc is a powerful collaborative app that elevates the capabilities of real-time document editing. As an enhanced version of Google Docs, It supports millions of collaborators simultaneously, ensuring that every change is captured instantly and accurately.',
+    title: "Campus Connect - Let's socialize",
+    desc: 'Campus Connect is a comprehensive social networking platform designed to foster community engagement within a campus environment. It enables users to create and manage profiles, connect with friends, share posts, participate in events, and communicate through messaging. Key features include user registration with email validation, friend recommendations using graph-based algorithms, a trie-based user search system, and a hierarchical event management system organized by categories. ',
     subdesc:
-      'With LiveDoc, users can experience the future of collaboration, where multiple contributors work together in real time without any lag, by using Next.js and Liveblocks newest features.',
-    href: 'https://www.youtube.com/watch?v=y5vE8y_f_OM',
+      'The platform supports posting with likes and comments, event participation, and profile customization, all stored persistently in text files. Built using C++ with data structures like graphs, tries, and linked lists, Campus Connect provides an interactive and efficient experience for students to stay connected and engaged.',
+    href: 'https://github.com/Lethal-Tempest/Campus-Connect.git',
     texture: '/textures/project/project2.mp4',
     logo: '/assets/project-logo2.png',
     logoStyle: {
@@ -132,11 +132,11 @@ export const myProjects = [
     ],
   },
   {
-    title: 'CarePulse - Health Management System',
-    desc: 'An innovative healthcare platform designed to streamline essential medical processes. It simplifies patient registration, appointment scheduling, and medical record management, providing a seamless experience for both healthcare providers and patients.',
+    title: 'Chanakya - Learning Gamified!',
+    desc: 'Chanakya is an educational website designed to teach children about their rights in an engaging and interactive manner. It employs a gamified approach to make learning fun, using simple yet effective web technologies.',
     subdesc:
-      'With a focus on efficiency, CarePulse integrantes complex forms and SMS notifications, by using Next.js, Appwrite, Twillio and Sentry that enhance operational workflows.',
-    href: 'https://www.youtube.com/watch?v=lEflo_sc82g',
+      'Built with HTML, CSS, and vanilla JavaScript, Chanakya was one of my initial web development projects, focusing on creating an accessible and visually appealing platform for young learners to explore and understand their rights.',
+    href: 'https://github.com/Lethal-Tempest/Chanakya.git',
     texture: '/textures/project/project3.mp4',
     logo: '/assets/project-logo3.png',
     logoStyle: {
@@ -171,11 +171,11 @@ export const myProjects = [
     ],
   },
   {
-    title: 'Horizon - Online Banking Platform',
-    desc: 'Horizon is a comprehensive online banking platform that offers users a centralized finance management dashboard. It allows users to connect multiple bank accounts, monitor real-time transactions, and seamlessly transfer money to other users.',
+    title: 'ChatApp - Your Go-to Messaging App',
+    desc: 'ChatApp is a mobile messaging application designed to facilitate seamless communication, similar to WhatsApp. It allows users to send and receive messages in real-time, ensuring a smooth and intuitive user experience.',
     subdesc:
-      'Built with Next.js 14 Appwrite, Dwolla and Plaid, Horizon ensures a smooth and secure banking experience, tailored to meet the needs of modern consumers.',
-    href: 'https://www.youtube.com/watch?v=PuOVqP_cjkE',
+      'Built using Expo Go for streamlined development, NativeWind for styling, and Firebase for backend services like real-time database and authentication, ChatApp provides a reliable and modern platform for instant messaging on mobile devices.',
+    href: 'github.com/Lethal-Tempest/ChatApp',
     texture: '/textures/project/project4.mp4',
     logo: '/assets/project-logo4.png',
     logoStyle: {
@@ -184,43 +184,6 @@ export const myProjects = [
       boxShadow: '0px 0px 60px 0px #2F67B64D',
     },
     spotlight: '/assets/spotlight4.png',
-    tags: [
-      {
-        id: 1,
-        name: 'React.js',
-        path: '/assets/react.svg',
-      },
-      {
-        id: 2,
-        name: 'TailwindCSS',
-        path: 'assets/tailwindcss.png',
-      },
-      {
-        id: 3,
-        name: 'TypeScript',
-        path: '/assets/typescript.png',
-      },
-      {
-        id: 4,
-        name: 'Framer Motion',
-        path: '/assets/framer.png',
-      },
-    ],
-  },
-  {
-    title: 'Imaginify - AI Photo Manipulation App',
-    desc: 'Imaginify is a groundbreaking Software-as-a-Service application that empowers users to create stunning photo manipulations using AI technology. With features like AI-driven image editing, a payments system, and a credits-based model.',
-    subdesc:
-      'Built with Next.js 14, Cloudinary AI, Clerk, and Stripe, Imaginify combines cutting-edge technology with a user-centric approach. It can be turned into a side income or even a full-fledged business.',
-    href: 'https://www.youtube.com/watch?v=Ahwoks_dawU',
-    texture: '/textures/project/project5.mp4',
-    logo: '/assets/project-logo5.png',
-    logoStyle: {
-      backgroundColor: '#1C1A43',
-      border: '0.2px solid #252262',
-      boxShadow: '0px 0px 60px 0px #635BFF4D',
-    },
-    spotlight: '/assets/spotlight5.png',
     tags: [
       {
         id: 1,
