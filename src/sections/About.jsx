@@ -61,11 +61,13 @@ const About = () => {
                 labelsData={[{ lat: 40, lng: -100, text: 'New Delhi, India', color: 'white', size: 15 }]}
               />
             </div>
-            <div>
-              <p className="grid-headtext">I’m very flexible with time zone communications & locations</p>
-              <p className="grid-subtext">I&apos;m based in New Delhi, India and open to remote work worldwide.</p>
-              <Button name="Contact Me" isBeam containerClass="w-full mt-10" />
-            </div>
+            <a href='#contact'>
+              <div>
+                <p className="grid-headtext">I’m very flexible with time zone communications & locations</p>
+                <p className="grid-subtext">I&apos;m based in New Delhi, India and open to remote work worldwide.</p>
+                <Button name="Contact Me" isBeam containerClass="w-full mt-10" />
+              </div>
+            </a>
           </div>
         </div>
 
